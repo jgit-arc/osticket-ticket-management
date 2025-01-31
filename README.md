@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/haGKChN.png" />
 </p>
 
 # osTicket - Ticket Management
@@ -11,8 +11,8 @@ This is a continuation of the *osTicket: Configuration Essentials* repository fo
 ## Accessing osTicket as an End User
 
 <p>
-<img src="https://i.ibb.co/XtM1X7K/osticket-login.png"/> <br/>
-<img src="https://i.ibb.co/Fg5RVbm/new-ticket-prompt.png"/>
+<img src="https://i.imgur.com/sa6P548.png"/> <br/>
+<img src="https://i.imgur.com/urtu8Sz.png"/>
 </p>
 
 1. Open the end-user URL (`localhost/osTicket`).
@@ -29,7 +29,7 @@ This is a continuation of the *osTicket: Configuration Essentials* repository fo
 ## 2. Accessing the Ticket as an Agent and Setting Ticket Properties
 
 <p>
-<img src="https://i.ibb.co/dMyJN7k/resolving-ticket.png" alt="Resolving Ticket"/>
+<img src="https://i.imgur.com/pqLf1XN.png" />
 </p>
 
 1. Keep the end-user window open! Open a new tab or window and navigate to `localhost/osTicket/scp/login.php`.
@@ -48,7 +48,7 @@ This is a continuation of the *osTicket: Configuration Essentials* repository fo
 ## 3. Transferring and Completing the Ticket
 
 <p>
-<img src="https://i.ibb.co/VSzxcjW/list-of-tickets.png" alt="List of Tickets"/>
+<img src="https://i.imgur.com/CXkUH81.png" />
 </p>
 
 1. Logout of the "John Doe" agent account and log in as the "Jane" user (or its equivalent).
